@@ -6,5 +6,5 @@
 About me
 ---
 I'm an Italian developer, and my passion is the developer world.<br>
-I've made some public projects and plugins, [Spigot](https://www.spigotmc.org/search/199796375/) plugin.<br>
+I've made some public projects and plugins, [Spigot](https://www.spigotmc.org/search/199796375/).<br>
 I'm currently working as Owner of **[CrabMc](https://crabmc.it/)**.
